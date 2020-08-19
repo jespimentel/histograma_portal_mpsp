@@ -11,6 +11,8 @@ Os histogramas foram gerados por um programa escrito em Python, que está dispon
 
 -----------------------
 
-Observações: (1) O histograma é um “gráfico” que mostra a distribuição de frequências de um conjunto de dados dividido em classes. No caso em estudo, o eixo x corresponde à classe dos valores recebidos e o eixo y a quantidade de membros contemplada.
+Observações: 
+
+(1) O histograma é um “gráfico” que mostra a distribuição de frequências de um conjunto de dados dividido em classes. No caso em estudo, o eixo x corresponde à classe dos valores recebidos e o eixo y a quantidade de membros contemplada.
 
 (2) Dados publicados no Portal relativos a determinados meses não estão padronizados e têm que passar por processos de “limpeza” para a análise com o script. O programa funciona, entretanto, para a maioria dos datasets existentes.
